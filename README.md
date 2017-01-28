@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+**Linking Internal Evidence to External**
+==============================
 
-You can use the [editor on GitHub](https://github.com/GWilly/Glos-sog-ra-phy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---------------------------------------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+####**Objective:**
+Using GitHub Pages and stackedit.io, prepare a small webpage that identifies a passage from Barnes and discusses its internal evidence and external evidence.  Include some form of media (images count, but don't feel restricted), a careful analysis of what some portion of the text might mean, and some evidence from an external source that you find through Harner.  (for example, you can use the bibliographies of bibliographies to find something more specific to the sort of question you're posing to the text)
 
-### Markdown
+Post a link to your page and a *short* narrative of how you found the external source and why you picked that one, rather than a different one.  Try to find a good one or at least one you think will be useful for the sort of questions that interest you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-------------------------------------------------------------------------------
+####**Passage:**
+"This be a Love Letter for a Present, and when she is Catched, what shall I do with her?  God knows!  For 'tiss safe to say I do not, and what we know not, is our only proof of Him!" - February pg. 14
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GWilly/Glos-sog-ra-phy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-------------------------------------------------------------------------------
+####**Analysis:**
