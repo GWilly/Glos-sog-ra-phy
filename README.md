@@ -24,4 +24,8 @@ Post a link to your page and a *short* narrative of how you found the external s
   Another very important aspect of this passage is the presence of God, and the relationship between gender and religion during this time period.  From the images to the text, religion seems to be a vital part of this book. Saint, Prophet, God, Lord, and Religion are some examples of words that portray and relate to religion in the text.  From my own analysis, I believe that religion is mentioned in order to provide support and also contrast the topic of lesbianism.  Usually, religion is used as a basis for going back to old traditions, questioning why things should change (in this case lesbianism).  However, it seems that Religion is used to glorify Dame Musset with illustrious examples of her as a "Saint" and images that feature her holiness.  "...Religion too late for Religion" (Barnes 23) must represent a newfound ideology in terms of women's rights and freedom that was praised during this time which goes against traditional views.  An example of one of the images is found below (Barnes 16).
  
 <img src="Saint Musset.jpg" alt="alt text" width="266" height="399.5">
+img[src$="Saint Musset.jpg"] {
+  display:block;
+  margin: 0 auto;
+}
   
