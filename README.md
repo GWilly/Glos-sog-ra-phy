@@ -1,6 +1,6 @@
 **Linking Internal Evidence to External**
 ==============================
-
+![Ladies Almanack Cover Page](Ladies Almanack Cover Page.jpg)
 ---------------------------------------------------------------------------
 
 **Objective:**
