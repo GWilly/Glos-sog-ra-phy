@@ -1,7 +1,6 @@
 **Linking Internal Evidence to External**
 ==============================
 <img src="Ladies Almanack Cover Page.jpg" alt="alt text" width="266" height="399.5">
-![Ladies Almanack Cover Page](Ladies Almanack Cover Page.jpg)
 ---------------------------------------------------------------------------
 
 **Objective:**
