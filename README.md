@@ -32,3 +32,7 @@ Post a link to your page and a *short* narrative of how you found the external s
 </p>
 
   I found my source (Encyclopedia of Lesbian and Gay Histories and Cultures. 2 vols. New York: Garland, 2000. Garland Reference Lib. of the Social Sciences 1002, 1008. HQ75.13 306.766.) by typing in lesbianism in the search bar of the Literary Research Guide.  Specifically, I chose Vol. 1: Lesbian Histories and Cultures: An Encyclopedia. Ed. Bonnie Zimmerman. 862 pp. HQ75.5.L4395 306.76′63′03.  I remember Taylor doing this in our first forum post and I decided to narrow my search on the specific topic.  I picked this source because I was interested in finding out if there was a women's movement or a rise in lesbianism during book's time period.  It would be very helpful in understanding the situation during that period, whether lesbianism was accepted or if society was intolerant and how it could be represented in the book.   
+  
+<p align="center">
+<img src="Encyclopedia of Lesbian and Gay Histories and Cultures.jpg" alt="alt text" width="266" height="399.5">
+</p>
