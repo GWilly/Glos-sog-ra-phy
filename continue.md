@@ -1,16 +1,7 @@
 # Continue your page
 
-Potatoes
+Take the page you've already written on GitHub and identify a question or two that strikes your interest.  Find an additional source, pick an additional passage from Barnes, and build a new site that uses the material from your old site, answers the question(s), and writes new material.
 
-- Carrots
-  1. Peaches
-  2. Cabbage
-  3. Tomato
-- Apples
-- Bananas
+Use at least one new technical tool from this week--Twine, Cascading Style-Sheets, videos, etc.
 
-1. Peaches
-2. Cabbage
-3. Tomato
-
-[Back to home](https://gwilly.github.io/Glos-sog-ra-phy/) 
+[Back to home](/Glos-sog-ra-phy/) 
