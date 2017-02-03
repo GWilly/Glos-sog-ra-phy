@@ -1,3 +1,7 @@
+---
+layout: new
+---
+
 **Linking Internal Evidence to External**
 ==============================
 
