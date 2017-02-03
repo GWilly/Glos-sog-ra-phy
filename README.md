@@ -41,4 +41,4 @@ Using the external source, I first read the introduction which informed me that 
 
 [It's a twine!](https://gwilly.github.io/Glos-sog-ra-phy/Demonstration.html)
 
-[On to the next page!](/Glos-sog-ra-phy/continue.html)
+[On to the next page!](https://gwilly.github.io/Glos-sog-ra-phy/continue.html)
