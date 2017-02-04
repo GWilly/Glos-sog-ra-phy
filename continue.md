@@ -4,4 +4,17 @@ Take the page you've already written on GitHub and identify a question or two th
 
 Use at least one new technical tool from this week--Twine, Cascading Style-Sheets, videos, etc.
 
+---------------------------------------------------------------------------
+
+Questions:
+
+1. What would you expect to find in the other volume of this source?  Would it help support your evidence in anyway?
+2. Could you expand a little more on her strange childhood? 
+
+---------------------------------------------------------------------------
+
+New Passage:
+
+"I think of that day, forty years ago, when I, a Child of ten, was deflowered by the Hand of a Surgeon!" - March (Barnes 24)
+
 [Back to home](https://gwilly.github.io/Glos-sog-ra-phy/) 
