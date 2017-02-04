@@ -7,4 +7,4 @@ Will be updated weekly, so please come back every week!
 02-04-2017
 </p>
 
-[[ https://media.giphy.com/media/QduCyLuNQYwpO/giphy.gif | height = 100px ]]
+![Alt Text](https://media.giphy.com/media/QduCyLuNQYwpO/giphy.gif)
