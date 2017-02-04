@@ -1,5 +1,7 @@
 # Welcome to Meme City!!!
 
+---------------------------------------------------------------------
+
 <p align="center">
 Will be updated weekly, so please come back every week!
 </p>
@@ -8,3 +10,6 @@ Will be updated weekly, so please come back every week!
 </p>
 
 ![Alt Text](https://media.giphy.com/media/QduCyLuNQYwpO/giphy.gif)
+
+
+[Back to home](https://gwilly.github.io/Glos-sog-ra-phy/)
